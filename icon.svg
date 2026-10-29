@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#97D153"/>
+  <rect y="64" width="512" height="64" fill="#A2DA5E"/>
+  <rect y="192" width="512" height="64" fill="#A2DA5E"/>
+  <rect y="320" width="512" height="64" fill="#A2DA5E"/>
+  <rect y="448" width="512" height="64" fill="#A2DA5E"/>
+  <g id="fox">
+  <g transform="translate(14 16)" fill="#000" opacity=".16">
+    <rect x="150" y="128" width="58" height="76"/><rect x="304" y="128" width="58" height="76"/>
+    <rect x="150" y="196" width="212" height="150" rx="12"/><rect x="196" y="300" width="120" height="76" rx="12"/>
+  </g>
+  <rect x="150" y="128" width="58" height="76" fill="#F07B2E"/>
+  <rect x="150" y="128" width="58" height="24" fill="#2A1E1A"/>
+  <rect x="304" y="128" width="58" height="76" fill="#F07B2E"/>
+  <rect x="304" y="128" width="58" height="24" fill="#2A1E1A"/>
+  <rect x="150" y="196" width="212" height="150" rx="12" fill="#F07B2E"/>
+  <rect x="150" y="196" width="212" height="22" rx="10" fill="#F59048"/>
+  <rect x="150" y="286" width="54" height="60" rx="10" fill="#FFF4E4"/>
+  <rect x="308" y="286" width="54" height="60" rx="10" fill="#FFF4E4"/>
+  <rect x="196" y="300" width="120" height="76" rx="12" fill="#FFF4E4"/>
+  <rect x="232" y="300" width="48" height="30" rx="8" fill="#2A1E1A"/>
+  <rect x="196" y="246" width="30" height="34" rx="6" fill="#2A1E1A"/>
+  <rect x="286" y="246" width="30" height="34" rx="6" fill="#2A1E1A"/>
+  <rect x="204" y="250" width="10" height="10" rx="2" fill="#fff"/>
+  <rect x="294" y="250" width="10" height="10" rx="2" fill="#fff"/>
+  </g>
+</svg>
